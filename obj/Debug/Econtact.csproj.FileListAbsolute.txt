@@ -1,0 +1,14 @@
+B:\Sources\Econtact\bin\Debug\Econtact.exe.config
+B:\Sources\Econtact\bin\Debug\Econtact.exe
+B:\Sources\Econtact\bin\Debug\Econtact.pdb
+B:\Sources\Econtact\obj\Debug\Econtact.csprojAssemblyReference.cache
+B:\Sources\Econtact\obj\Debug\MainWindow.g.cs
+B:\Sources\Econtact\obj\Debug\App.g.cs
+B:\Sources\Econtact\obj\Debug\Econtact_MarkupCompile.cache
+B:\Sources\Econtact\obj\Debug\Econtact_MarkupCompile.lref
+B:\Sources\Econtact\obj\Debug\MainWindow.baml
+B:\Sources\Econtact\obj\Debug\Econtact.g.resources
+B:\Sources\Econtact\obj\Debug\Econtact.Properties.Resources.resources
+B:\Sources\Econtact\obj\Debug\Econtact.csproj.GenerateResource.cache
+B:\Sources\Econtact\obj\Debug\Econtact.exe
+B:\Sources\Econtact\obj\Debug\Econtact.pdb
